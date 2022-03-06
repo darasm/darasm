@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Dara!
 
-- 🌱 I’m currently learning ...
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning:
+  - TensorFlow 
+  - Probability
+  - Role of Banks in the Economy
+- 📺 My favortite sitcom is The Big Bang Theory
+- 🎾 I like playing Tennis on weekends
+
 
 <div align="center">
   <a href="https://github.com/darasm/">
