@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Dara!
 
+##
+
 - 😄 Pronouns: she/ her
-- 🌱 I’m currently learning:
+- 💡 I’m currently learning:
   - TensorFlow 
   - Probability
   - Role of Banks in the Economy
