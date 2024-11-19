@@ -4,11 +4,11 @@
 
 - 😄 Pronouns: she/ her
 - 💡 I’m currently learning:
-  - TensorFlow 
+  - Fundamental Models 
   - Probability
-  - Role of Banks in the Economy
+  - GENAIOps
 - 📺 My favortite sitcom is The Big Bang Theory
-- 🎾 I like playing Tennis on weekends
+- 📖 Love reading Agatha Christie and Conan Doyle
 
 
 <div align="center">
